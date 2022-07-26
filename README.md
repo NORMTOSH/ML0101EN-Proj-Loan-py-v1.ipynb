@@ -1,6 +1,6 @@
 # ML0101EN-Proj-Loan-py-v1
-Build a classifier to predict whether a loan case will be paid off or not. 
-Load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models:
+Classifiers to predict whether a loan case will be paid off or not by loading a historical dataset from previous loan applications, 
+clean the data, and apply different classification algorithm on the data using the following algorithms to build your models:
 
 k-Nearest Neighbour
 
